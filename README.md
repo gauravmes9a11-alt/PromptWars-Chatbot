@@ -110,6 +110,10 @@ Open the URL Vite prints (usually http://localhost:5173).
 
 <img width="1917" height="1198" alt="Screenshot 2026-07-07 113501" src="https://github.com/user-attachments/assets/7c49c7c5-1985-497b-9c46-66e5ea767b26" />
 
+## Warning 
+
+- Be aware of the API keys as they cost you.
+
 ## License
 
-Built for hackathon submission purposes.
+Built for hackathon submission purposes in the Virtual Prompt Wars organised by the Google Developers group and Hack2Skill.

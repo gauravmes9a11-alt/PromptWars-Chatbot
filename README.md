@@ -101,6 +101,15 @@ Open the URL Vite prints (usually http://localhost:5173).
 - Cache translated FAQ pairs to reduce repeat GenAI calls for common
   questions ("where's the nearest restroom" etc.) and cut latency/cost.
 
+## Sample Snaps of the Chatbot
+<img width="1917" height="532" alt="Screenshot 2026-07-07 110241" src="https://github.com/user-attachments/assets/9373cea9-baae-40d9-90b1-efc64e5326cc" />
+
+<img width="1917" height="1198" alt="Screenshot 2026-07-07 110421" src="https://github.com/user-attachments/assets/bcd96733-bed9-4b29-86b0-dd9140bef6ea" />
+
+<img width="1547" height="1198" alt="Screenshot 2026-07-07 113127" src="https://github.com/user-attachments/assets/a00afb55-3899-4aec-8227-dda1fca369d9" />
+
+<img width="1917" height="1198" alt="Screenshot 2026-07-07 113501" src="https://github.com/user-attachments/assets/7c49c7c5-1985-497b-9c46-66e5ea767b26" />
+
 ## License
 
 Built for hackathon submission purposes.
